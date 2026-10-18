@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/yesqa/commit/8fd8985ce6ee709630360bd1448a3359ea701dcc",
       "git:hexsha": "8fd8985ce6ee709630360bd1448a3359ea701dcc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/yesqa/commit/1411fcfe86484c8d9e4a83dcbfac5861ed4fc9e7",
