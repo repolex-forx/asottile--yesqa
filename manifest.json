@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "yesqa",
+  "versions": [
+    {
+      "commit": "8fd8985ce6ee709630360bd1448a3359ea701dcc",
+      "parsed_at": "2026-10-18T05:51:58.327248+00:00",
+      "filetree": "filetree/8fd8985ce6ee709630360bd1448a3359ea701dcc.nq.gz",
+      "blobs": [
+        "blob/0c5a37eb0adeb312718e533d0a4fbcbea6880056.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz",
+        "blob/ed9c280d7147b76a944f37c3df56ff35650e22cb.nq.gz",
+        "blob/522fbe20b89911bb8d68b4a684a51225dd571764.nq.gz",
+        "blob/b5dc401f2a3bb8479efcd1e1f535e6f5c9e17f91.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/5370c9485451439199ab7ab9ba30c95d9a046275.nq.gz",
+        "blob/0de00cc9eb1b31fc8936c585f049dfb2de84873b.nq.gz",
+        "blob/772fb9817f5d930121569d66164081359a9b9fbf.nq.gz",
+        "blob/924e6eb78e12689e5a86e018668545bafdc13d46.nq.gz",
+        "blob/84a0e81a3320a93540d3d03b101c957769eef1b0.nq.gz",
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
